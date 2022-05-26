@@ -9,6 +9,7 @@
   "author": "Beubeu",
   "license": "ISC",
   "dependencies": {
+    "date-calculator": "^1.0.3",
     "discord.js": "^13.7.0"
   }
 }

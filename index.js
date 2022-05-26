@@ -71,8 +71,8 @@ client.on("messageCreate",async message => {
             { name: 'Description de quelqu un', value: 'beubeu [Prenom de la personne]', inline: true },
             { name: 'Mon hymne', value: 'beubeu hymne', inline: true },  
         )
-//azd
-        message.reply({embeds : [embed]});
+//azdqscqscqscqsc
+        message.reply({embeds : [embed]} );
     }
     else if(message.content === prefix + "vacances ?"){
 
